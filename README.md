@@ -1,4 +1,4 @@
-- ### Hi, I’m @Lorenzo-Castellini-Coutin.
+- ### Hi! I’m @Lorenzo-Castellini-Coutin.
 - ### I’m interested in both software and hardware.
 - ### I’m currently learning more about both Python, cloud computing, data structures, and C++. 
 - ### I’m looking to collaborate on any project on either Python or C++.
