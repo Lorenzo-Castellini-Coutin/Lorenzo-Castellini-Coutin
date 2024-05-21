@@ -1,7 +1,6 @@
 ## Hi! I’m @Lorenzo-Castellini-Coutin 
 ## About Me!
 - Currently, I am a second-year computer engineering student at the University of Puerto Rico-Mayaguez.
-- Tech Stack: Python (Intermediate), C++ (Beginner), CLI (Linux & Windows OS), VS Code, and GitHub.
 ## What I'm Up To
 - I’m currently learning more about Python frameworks/libraries, data structures and algorithms, and general C++ terms. 
 - Furthermore, I am currently working on three personal projects, two on Python and one on C++.
