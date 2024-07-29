@@ -1,6 +1,7 @@
 ## Hi! I’m @Lorenzo-Castellini-Coutin 
 ## About Me!
 - Currently, I am a second-year computer engineering student at the University of Puerto Rico-Mayaguez.
+- Also, I am currently part of a research group, where I form part of the back-end portion, which is done using Python, Flask, among other things.
 ## What I'm Up To
 - I’m currently learning more about Python frameworks/libraries, data structures and algorithms, and general C++ terms. 
 - Furthermore, I am currently working on three personal projects, two on Python and one on C++.
