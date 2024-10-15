@@ -14,7 +14,7 @@
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,docker,flask,github,mysql,postman,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,azure,docker,flask,github,mysql,postman,vscode&perline=4" />
   </a>
 </p>
 
