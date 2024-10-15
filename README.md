@@ -1,13 +1,24 @@
 ## Hi! I’m @Lorenzo-Castellini-Coutin 
 ## About Me!
-- Currently, I am a second-year computer engineering student at the University of Puerto Rico-Mayaguez.
-- Also, I am currently part of a research group, where I form part of the back-end portion, which is done using Python, Flask, MySQL, among other things.
-## What I'm Up To
-- I’m currently learning more about Python frameworks/libraries, data structures and algorithms, and general C++ terms. 
-- Furthermore, I am currently working on three personal projects, two on Python and one on C++, mostly in backend.
-## Additional Info
-- As of now I am currently looking for interships, research, and/or co-op opportunities.
-- In this GitHub, you will find my diverse personal projects, as well as some other projects I might be working on.
+- I am a second-year computer engineering student at the University of Puerto Rico-Mayaguez. Currently, I hold two research experiences, as well as knowledge with computer science concepts, IT support concepts, among others. Also, have done some full stack, backend, and script applications.
+- Currently looking for internship, co-op, and/or research opportunities in order to further expand my knowledge and use my current skills to create an impact.
+- In this GitHub profile, you will find a collection of repos containing my personal projects, projects as part of assignments, dsa practice, among other cool stuff.
+
+## Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+  </a>
+</p>
+
+## Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,azure,docker,flask,github,mysql,postman,vscode," />
+  </a>
+</p>
+
+
 
 <!---
 Lorenzo-Castellini-Coutin/Lorenzo-Castellini-Coutin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
