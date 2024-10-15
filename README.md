@@ -4,19 +4,14 @@
 - Currently looking for internship, co-op, and/or research opportunities in order to further expand my knowledge and use my current skills to create an impact.
 - In this GitHub profile, you will find a collection of repos containing my personal projects, projects as part of assignments, dsa practice, among other cool stuff.
 
-## Programming Languages
+## My Current Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,git,azure,docker,flask,github,mysql,postman,vscode&perline=6" />
   </a>
 </p>
 
-## Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,docker,flask,github,mysql,postman,vscode&perline=4" />
-  </a>
-</p>
+
 
 
 
