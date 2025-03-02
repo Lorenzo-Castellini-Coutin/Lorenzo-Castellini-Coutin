@@ -1,10 +1,10 @@
 ## Hi! I’m @Lorenzo-Castellini-Coutin 
 ## About Me!
-- I am a second-year computer engineering student at the University of Puerto Rico-Mayaguez. Currently, I hold two research experiences, one of them being a backend developer, as well as knowledge with computer science concepts, IT support concepts, among others. Also, have done some full stack, backend, and script applications.
+- I am a computer engineering student at the University of Puerto Rico-Mayaguez. Currently, I am working as a backend developer for a research group, ROCS Carpool, at UPRM. Have experience doing full-stack, scripts, and backend projects, as well as knowledge in computer science concepts, IT Support, among others.
 - Currently looking for internship, co-op, and/or research opportunities in order to further expand my knowledge and use my current skills to create an impact.
 - In this GitHub profile, you will find a collection of repos containing my personal projects, projects as part of assignments, dsa practice, among other cool stuff.
 
-## My Current Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,git,azure,docker,flask,github,mysql,postman,vscode&perline=6" />
