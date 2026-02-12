@@ -16,7 +16,7 @@
 ### Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,azure,aws,mysql,flask,postman,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,azure,aws,mysql,flask,postman,docker,linux&perline=5" />
   </a>
 </p>
 
